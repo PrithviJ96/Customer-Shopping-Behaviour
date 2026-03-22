@@ -82,7 +82,7 @@ The dataset contains information on:
 
 1. Clone the repository:
 
-git clone https://github.com/PrithviJ96/Customer Shopping Behaviour.git
+git clone https://github.com/PrithviJ96/Customer-Shopping-Behaviour.git
 
 
 
