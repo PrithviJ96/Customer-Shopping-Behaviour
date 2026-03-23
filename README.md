@@ -82,7 +82,7 @@ The dataset contains information on:
 
 1. Clone the repository:
 
-git clone https://github.com/PrithviJ96/Customer-Shopping-Behaviour.git
+    git clone https://github.com/PrithviJ96/Customer-Shopping-Behaviour.git
 
 
 
@@ -90,7 +90,7 @@ git clone https://github.com/PrithviJ96/Customer-Shopping-Behaviour.git
 
 
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 
 
@@ -98,7 +98,7 @@ pip install -r requirements.txt
 
 
 
-jupyter notebook
+    jupyter notebook
 
 
 
