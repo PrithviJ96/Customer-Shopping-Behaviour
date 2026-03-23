@@ -19,6 +19,7 @@ This project analyzes customer transaction data to uncover **key patterns, trend
 ## 📂 Dataset
 
 Source: Retail Customer Dataset
+
 The dataset contains information on:
 
 * Customer demographics (age, gender)
