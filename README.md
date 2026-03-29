@@ -33,16 +33,18 @@ The dataset contains information on:
 
 ##  Project Workflow
 
-1. **Data Cleaning**
+**1. Data Cleaning**
 
    * Handled missing values using category-wise mean imputation
    * Corrected data types and removed inconsistencies
-2. **Exploratory Data Analysis (EDA)**
+     
+**2. Exploratory Data Analysis (EDA)**
 
    * Analyzed revenue distribution by gender and age group
    * Studied customer segmentation (loyal, returning, new)
    * Evaluated impact of discounts and shipping methods
-3. **Data Analysis**
+     
+**3. Data Analysis**
 
    * Identified top-performing product categories
    * Examined customer spending behavior
@@ -116,5 +118,6 @@ The insights derived can help organizations **improve marketing strategies, opti
 ##  Author
 
 Prithvi Raj
+
 GitHub: https://github.com/PrithviJ96
 
