@@ -1,13 +1,13 @@
-# 📊 Customer Shopping Behaviour Analysis
+# Customer Shopping Behaviour Analysis
 
-## 📌 Project Overview
+## Project Overview
 
 Understanding customer shopping behavior is essential for improving sales strategies, customer retention, and overall business performance.
 This project analyzes customer transaction data to uncover **key patterns, trends, and actionable insights** that can support data-driven decision-making.
 
 
 
-## 🎯 Objectives
+## Objectives
 
 * Analyze customer purchasing patterns and behavior
 * Identify high-value customer segments
@@ -16,7 +16,7 @@ This project analyzes customer transaction data to uncover **key patterns, trend
 
 
 
-## 📂 Dataset
+## Dataset
 
 Source: Retail Customer Dataset
 
@@ -31,7 +31,7 @@ The dataset contains information on:
 
 
 
-## 🧠 Project Workflow
+##  Project Workflow
 
 1. **Data Cleaning**
 
@@ -50,7 +50,7 @@ The dataset contains information on:
 
 
 
-## 📈 Key Insights
+##  Key Insights
 
 * Male customers generate approximately **2x higher revenue** compared to female customers
 * Products such as **gloves, sandals, boots, hats, and handbags** have the highest average ratings, indicating potential for **premium pricing**
@@ -62,7 +62,7 @@ The dataset contains information on:
 
 
 
-## 📊 Business Recommendations
+##  Business Recommendations
 
 * Promote **subscription plans** to increase customer lifetime value
 * Optimize **discount strategies** for products heavily dependent on promotions
@@ -71,7 +71,7 @@ The dataset contains information on:
 
 
 
-## 🛠 Technologies Used
+## Technologies Used
 
 * Python
 * Pandas, NumPy
@@ -80,7 +80,7 @@ The dataset contains information on:
 
 
 
-## ⚙️ How to Run
+##  How to Run
 
 1. Clone the repository:
 
@@ -106,14 +106,14 @@ The dataset contains information on:
 
 
 
-## 📌 Conclusion
+##  Conclusion
 
 This project demonstrates how data analysis can uncover **customer behavior patterns and business opportunities**.
 The insights derived can help organizations **improve marketing strategies, optimize pricing, and enhance customer retention**.
 
 
 
-## 👤 Author
+##  Author
 
 Prithvi Raj
 GitHub: https://github.com/PrithviJ96
